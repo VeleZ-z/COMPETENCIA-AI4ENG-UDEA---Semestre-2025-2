@@ -1,0 +1,2 @@
+# COMPETENCIA-AI4ENG-UDEA---Semestre-2025-2
+repositorio para la COMPETENCIA AI4ENG UDEA - Semestre 2025-2
