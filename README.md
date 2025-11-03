@@ -1,29 +1,19 @@
-Entrega  1 - Proyecto 2025-2
+   Proyecto 2025-2
+
+   Integrantes
 
 Juan Camilo Velez Chaverra 
-1077997236
+C.C 1077997236
 Ingenieria De Sistemas
 
 Jesus De oro 
-1002390199
+C.C 1002390199
 Ingenieria De Sistemas
 
 Daniel Duque
-1000100877
+C.C 1000100877
 Ingenieria De Sistemas
 
-Entrega  2 - Proyecto 2025-2
+   link video Entrega  2
 
-Juan Camilo Velez Chaverra 
-1077997236
-Ingenieria De Sistemas
-
-Jesus De oro 
-1002390199
-Ingenieria De Sistemas
-
-Daniel Duque
-1000100877
-Ingenieria De Sistemas
-
-- link video: https://www.youtube.com/watch?v=fmrB4tNKob0
+- https://www.youtube.com/watch?v=fmrB4tNKob0
